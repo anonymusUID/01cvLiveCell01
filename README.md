@@ -20,3 +20,4 @@ segmenttationTool the package developed for segmentation purpose.
     ```bash
     python main.py
     ```
+*The requirements are enlisted inside "requirement.txt" within the folder "segmenttationTool"
